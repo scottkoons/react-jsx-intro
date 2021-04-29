@@ -1,6 +1,6 @@
 # react-jsx-intro
 --
-##Part 1
+## Part 1
 For this assignment you will be creating three components:
 
 ##FirstComponent
